@@ -1,0 +1,6 @@
+1. Conecto ground en proto(-) a ground en GPIO Pin 6.
+2. Resistencia 10 Ohm a GPIO4 (pin 7)
+3. El otro extremo de la resistencia al polo de un led.
+4. El otro polo del led a Ground.
+5. pincho un botón y pongo GRND en un polo 
+6. el otro polo del botón a GPIO17 pin 11
